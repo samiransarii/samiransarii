@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=😅%20Aspiring%20Software%20Engineer%20|%20|Class%20'26%3B%20/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%7C+Engineering+solutions+by+design%3B+I+believe+every+problem+has+its+solution+waiting+to+be+discovered&font=Fira%20Code&center=true&width=950&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
 </p>
 
 <!-- Social icons section -->
@@ -32,12 +32,12 @@
 
  
 
-  <h3>🔥 Streak Stats</h3>
+  <h3>Streak Stats</h3>
   <p>
       <img src="https://streak-stats.demolab.com?user=samiransarii&theme=nightowl&border_radius=0&mode=weekly" alt="GitHub Streak" />
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
