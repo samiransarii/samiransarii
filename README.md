@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=😅%20Trying%20to%20become%20a%20full-stack%20developer%3B%20🥲%20Recovering%20from%20procrastination%3B%20Graduating%20in%20spring%202026&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=😅%20Aspiring%20Software%20Engineer%20|%20|Class%20'26%3B%20/>
 </p>
 
 <!-- Social icons section -->
