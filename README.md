@@ -1,54 +1,62 @@
+<p align="center">Hi there! I'm <b>Samir Ansari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></p>
+<p align="center">
+  Software Engineering by ❤️ | Engineering solutions by design <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampwcmNrMWRndzlzN3VkcG5hNmFqbGFlMGhkdXlmam9oYjk2c2J0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/povenlBAIz14s/giphy.gif" width="30">
+</p>
+I’m deeply interested in Machine Learning, Backend Systems, iOS Development, and System Design. I enjoy working projects that solves problems with cutting edge technologies and improves user experience. I also like building smooth and apealing user interfaces.
+    <h5 align="center">🗄️ Backend Systems 🤖 Machine Learning  💻 User Interfaces  😄 User Experience 📱 iOS Development</h5>
+
+<h2 align="center">Technology Stack <img src="./images/laptop.gif" width="30"></h2>
 
 <p align="center">
-  <a href="https://github.com/samiransarii">
-    <img src="https://github.com/samiransarii/samiransarii/blob/main/samir-ansari.png?raw=true" alt="Samir Ansari" width="250"/></a>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift"/>
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go"/>
+
+  <!-- Development & Frameworks -->
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer"/>
+
+  <!-- Infrastructure & Tools -->
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud"/>
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
+</p>
+
+
+
+<h2 align="center">Reach Me Out On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"></h2>
+
+<p align="center">
+  <a href="mailto:samiransari.me@gmail.com">
+    <img src="https://img.shields.io/badge/samir--ansarii-green?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samiransarii/">
+    <img src="https://img.shields.io/badge/samir--ansarii-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.samiransari.com/">
+    <img src="https://img.shields.io/badge/samir--ansarii-green?style=flat-square&logo=internet-explorer&logoColor=white" alt="Personal Website"/>
+  </a>
+</p>
+
+<h2 align="center">My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiransarii&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%7C+Engineering+solutions+by+design%3B+I+believe+every+problem+has+its+solution+waiting+to+be+discovered&font=Fira%20Code&center=true&width=950&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiransarii&hide=html,css,shaderlab,basic,jupyter%20notebook,hlsl&theme=radical" alt="Top Languages"/>
 </p>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/samiransarii/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.samiransari.com"><img width="32px" alt="Dev.to" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/samiransarii?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/samiransarii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamiransarii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true" width="150" height="28"/>
-</p>
-<br/>
-
-
-
- 
-
-  <h3>Streak Stats</h3>
-  <p>
-      <img src="https://streak-stats.demolab.com?user=samiransarii&theme=nightowl&border_radius=0&mode=weekly" alt="GitHub Streak" />
-  </p>
-
-  <h3>GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=samiransarii&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samiransarii&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="samiransarii activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=samiransarii&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
