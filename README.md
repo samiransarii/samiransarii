@@ -1,8 +1,8 @@
 <p align="center">Hi there! I'm <b>Samir Ansari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></p>
 <p align="center">
-  Software Engineering by ❤️ | Engineering solutions by design <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampwcmNrMWRndzlzN3VkcG5hNmFqbGFlMGhkdXlmam9oYjk2c2J0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/povenlBAIz14s/giphy.gif" width="30">
+  Software Engineer by passion ❤️ | Engineering solutions by design <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampwcmNrMWRndzlzN3VkcG5hNmFqbGFlMGhkdXlmam9oYjk2c2J0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/povenlBAIz14s/giphy.gif" width="30">
 </p>
-I’m deeply interested in Machine Learning, Backend Systems, iOS Development, and System Design. I enjoy working projects that solves problems using cutting edge technologies and improves user experience. I also like building smooth and apealing user interfaces.
+I like working on projects related <b>Backend Systems, iOS Developement, and System Designs</b>. I am also actively learning <b>ML</b> and love working on <b>Machine Learning</b> projects. I enjoy working projects that solves problems using cutting edge technologies and improves user experience. 
     <h5 align="center">🗄️ Backend Systems 🤖 Machine Learning  💻 User Interfaces  😄 User Experience 📱 iOS Development</h5>
 
 <h2 align="center">Technology Stack <img src="./images/laptop.gif" width="30"></h2>
